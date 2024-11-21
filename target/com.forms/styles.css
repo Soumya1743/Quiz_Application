@@ -1,0 +1,21 @@
+body{
+	background-color: rgb(255, 225, 225);
+	width: 30%;
+	margin-left: 35%;
+	margin-top: 10rem;
+}
+#form{
+	margin-top:6rem;
+}
+label{
+	float:left;
+	font-size: 1.5rem;
+}
+.inp{
+	float:right;
+	margin-left: 2rem;
+	height:2rem;
+}
+#check{
+	display: inline-block;
+}
